@@ -1,0 +1,15 @@
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\bin\Debug\net6.0\Method_Klark-Right.exe
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\bin\Debug\net6.0\Method_Klark-Right.deps.json
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\bin\Debug\net6.0\Method_Klark-Right.runtimeconfig.json
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\bin\Debug\net6.0\Method_Klark-Right.dll
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\bin\Debug\net6.0\Method_Klark-Right.pdb
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.AssemblyInfoInputs.cache
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.AssemblyInfo.cs
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.dll
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\refint\Method_Klark-Right.dll
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.pdb
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\Method_Klark-Right.genruntimeconfig.cache
+C:\Users\Misha\source\repos\Method_Klark-Right\Method_Klark-Right\obj\Debug\net6.0\ref\Method_Klark-Right.dll
