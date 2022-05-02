@@ -3,8 +3,8 @@
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-//var fileHandler = new FileHandler("E-n51-k5.vrp (1).txt");
-var fileHandler = new FileHandler("E-n51-k5.vrp-short.txt");
+var fileHandler = new FileHandler("E-n51-k5.vrp (1).txt");
+//var fileHandler = new FileHandler("E-n51-k5.vrp-short.txt");
 
 var points = fileHandler.GetPointsFromFile();
 var depo = points.FirstOrDefault();
